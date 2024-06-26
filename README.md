@@ -2,8 +2,8 @@
 
 ## Project Structure
 Consisters of two models:
-1 - CNN-based encoder and RNN-based decoder Image Captioning model
-2 - Transformer based encoder-decoder Image Captioning model
+1 - CNN-based encoder and RNN-based decoder Image Captioning model<br />
+2 - Transformer based encoder-decoder Image Captioning model<br />
 
 ## Running instructions:
 
