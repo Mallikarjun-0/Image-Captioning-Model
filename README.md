@@ -10,7 +10,7 @@ Link for the dataset : https://drive.google.com/file/d/1FMVcFM78XZE1KE1rIkGBpCdc
 
 ### Part-A (Part - a.ipynb):
 
-**Created and tested on kaggle only**
+**Built and tested on kaggle only**
 
 Upload the given dataset zip file to the kaggle datasets and name the dataset while uploading as image-captioning
 
