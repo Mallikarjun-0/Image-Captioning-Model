@@ -1,19 +1,13 @@
 # DL TERM PROJECT
 
-
-TEAM-NAME : NOT SO DEEP LEARNERS
-TEAM-ID   : 4
-
-Group Members:
-Galipelli Sai Mallikarjun(21CS30019)
-Dhruv Agja (21CS10022)
-Adarsh Patel (21CS10002)
-Ritesah M (21CS30042)
-
+## Project Structure
+Consisters of two models:
+1 - CNN-based encoder and RNN-based decoder Image Captioning model
+2 - Transformer based encoder-decoder Image Captioning model
 
 ## Running instructions:
 
-### Part-A (team_id_4_a.ipynb):
+### Part-A (Part - a.ipynb):
 
 **Created and tested on kaggle only**
 
@@ -27,7 +21,7 @@ The path of the training images directory should look like this:
 
 
 
-### Part-B (tema_id_4_b.ipynb):
+### Part-B (Part - b.ipynb):
 
 **Created and tested on Colab only**
 
